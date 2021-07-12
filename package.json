@@ -4,7 +4,7 @@
     "description": "* I am Pol, an iOS developer currently working on the [Student Beans](https://www.studentbeans.com/uk/apps) app. * I write about programming in my [personal blog](https://www.polpiella.codes) which is also entirely developed my me! 🙋‍♂️",
     "main": "src/index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "readme": "node ./src/index.js"
     },
     "repository": {
         "type": "git",
