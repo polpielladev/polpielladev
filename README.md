@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```swift
+struct PolPiella {
+  let pronouns = ["He", "Him"]
+  let codeStack = ["Swift", "Javascript", "HTML", "CSS"]
+  let technologies = [
+    "mobile": ["iOS", "Swift", "React Native", "fastlane"]
+    "web": ["React", "Webpack", "Next.js", "npm"]
+  ],
+  let focus = "iOS app development"
+}
+```
