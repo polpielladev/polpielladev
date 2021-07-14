@@ -21,4 +21,4 @@ jobs:
         git config user.email info@polpiellamusic.com
         git add README.md
         git commit -m "[generated]: Update latest blog posts in `README.md` file"
-        git push origin master
+        git push origin main
