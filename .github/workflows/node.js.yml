@@ -20,5 +20,5 @@ jobs:
         git config user.name pol-piella
         git config user.email info@polpiellamusic.com
         git add README.md
-        git commit -m "[generated]: Update latest blog posts in `README.md` file"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[generated]: Update latest blog posts in `README.md` file"
         git push origin main
