@@ -20,4 +20,6 @@ struct PolPiella {
 }
 ```
 
+### My Github stats 📊
+
 [![Pol's GitHub stats](https://github-readme-stats.vercel.app/api?username=pol-piella)](https://github.com/anuraghazra/github-readme-stats)
