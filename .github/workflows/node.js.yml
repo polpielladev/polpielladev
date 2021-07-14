@@ -1,0 +1,23 @@
+name: Fetch latest blog posts and update README.md
+
+on:
+    push:
+    schedule:
+        - cron: "2/0 * * * *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
+                with:
+                    node-version: "14"
+            - run: npm install
+            - run: npm run readme
+            - run: |
+                git config user.name pol-piella
+                git config user.email info@polpiellamusic.com
+                git add README.md
+                git commit -m "[generated]: Update latest blog posts in `README.md` file"
+                git push origin main

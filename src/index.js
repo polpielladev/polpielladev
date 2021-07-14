@@ -1,4 +1,5 @@
 const Parser = require("rss-parser");
+const fs = require("fs").promises;
 
 async function getLatestArticles() {
     const feed = await new Parser().parseURL(
@@ -11,6 +12,19 @@ async function getLatestArticles() {
         .join("\n");
 }
 
+async function readTemplateFile() {
+    const template = await fs.readFile("./src/templates/README.md.tpl", {
+        encoding: "utf-8",
+    });
+    return template;
+}
+
 (async () => {
-    console.log(await getLatestArticles());
+    const latestArticlesMarkdown = await getLatestArticles();
+    const template = await readTemplateFile();
+    const newMarkdown = template.replace(
+        "{latest_blogs}",
+        latestArticlesMarkdown
+    );
+    fs.writeFile("./README.md", newMarkdown);
 })();
