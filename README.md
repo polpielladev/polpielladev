@@ -1,4 +1,4 @@
-### Hola! 👋
+### Hi there 👋
 
 * I am Pol, an iOS developer currently working on the [Student Beans](https://www.studentbeans.com/uk/apps) app.
 * I write about programming in my [personal blog](https://www.polpiella.codes) which is also entirely developed my me! 🙋‍♂️
