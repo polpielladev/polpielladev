@@ -1,4 +1,4 @@
-// swift-tools-version:5.4
+// swift-tools-version:5.3.0
 
 import PackageDescription
 
@@ -10,6 +10,6 @@ let package = Package(
         .package(url: "https://github.com/nmdias/FeedKit.git", .exact("9.1.2"))
     ],
     targets: [
-        .executableTarget(name: "Readme", dependencies: ["FeedKit", .product(name: "ArgumentParser", package: "swift-argument-parser")]),
+        .target(name: "Readme", dependencies: ["FeedKit", .product(name: "ArgumentParser", package: "swift-argument-parser")]),
     ]
 )
