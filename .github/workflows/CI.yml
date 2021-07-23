@@ -7,15 +7,11 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '14'
-    - run: npm install
-    - run: npm run readme
+    - run: cd Readme && swift run Readme $(pwd)/../templates/README.md.tpl $(pwd)/../README.md 
     - run: |
         git config user.name pol-piella
         git config user.email info@polpiellamusic.com
