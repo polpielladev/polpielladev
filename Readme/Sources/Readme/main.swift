@@ -2,7 +2,7 @@ import Foundation
 import ArgumentParser
 
 struct Readme: ParsableCommand {
-    @Argument(help: "The template file that is to be used to parse and replace content.")
+    @Argument(help: "The template file will be used to parse and replace content.")
     var template: String
     
     @Argument(help: "The path of the destination README file.")
