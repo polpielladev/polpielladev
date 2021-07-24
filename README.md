@@ -1,9 +1,9 @@
 ### Hola! 👋
 
 * I am Pol, an iOS developer currently working on the [Student Beans](https://www.studentbeans.com/uk/apps) app.
-* I write about programming in my [personal blog](https://www.polpiella.codes) which is also entirely developed my me! 🙋‍♂️
+* I write about programming in my [personal blog](https://www.polpiella.dev) which is also entirely developed my me! 🙋‍♂️
 
-### Latest articles in my [blog](https://www.polpiella.codes)
+### Latest articles in my [blog](https://www.polpiella.dev)
 - [How I use Github Actions to update my Github profile](https://polpiella.dev/updating-your-profile-readme-with-github-actions)
 - [Testing dates consistently](https://polpiella.dev/testing-dates-consistently)
 - [Clean Architecture: A Feature Flag Manager](https://polpiella.dev/clean-architecture-a-feature-flag-provider)
