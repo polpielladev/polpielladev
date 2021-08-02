@@ -4,9 +4,9 @@
 * I write about programming in my [personal blog](https://www.polpiella.dev) which is also entirely developed my me! 🙋‍♂️
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern)
 - [How I use Github Actions to update my Github profile](https://polpiella.dev/updating-your-profile-readme-with-github-actions)
 - [Testing dates consistently](https://polpiella.dev/testing-dates-consistently)
-- [Clean Architecture: A Feature Flag Manager](https://polpiella.dev/clean-architecture-a-feature-flag-provider)
 
 ### A bit my tech stack 🧑‍💻
 
