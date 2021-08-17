@@ -3,7 +3,7 @@
 ### Latest articles in my [blog](https://www.polpiella.dev)
 {latest_blogs}
 
-### A bit my tech stack 🧑‍💻
+### A bit about my tech stack 🧑‍💻
 
 ![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)
