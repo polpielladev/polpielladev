@@ -1,7 +1,4 @@
-### Hola! 👋
-
-* I am Pol, an iOS developer currently working on the [Student Beans](https://www.studentbeans.com/uk/apps) app.
-* I write about programming in my [personal blog](https://www.polpiella.dev) which is also entirely developed my me! 🙋‍♂️
+![github-banner](https://user-images.githubusercontent.com/24246926/129704171-226c2246-48da-47d5-bb95-6177b076503b.png)
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
 - [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern)
