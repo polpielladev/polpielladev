@@ -1,4 +1,4 @@
-![github-banner](https://user-images.githubusercontent.com/24246926/129704171-226c2246-48da-47d5-bb95-6177b076503b.png)
+![github-banner](https://user-images.githubusercontent.com/24246926/132853586-aa11a8b2-9388-4f47-87d9-583db35f0ca7.png)
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
 - [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern)
