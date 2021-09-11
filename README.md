@@ -1,9 +1,9 @@
 ![github-banner](https://user-images.githubusercontent.com/24246926/132853586-aa11a8b2-9388-4f47-87d9-583db35f0ca7.png)
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Using Property Wrappers to avoid code repetition](https://polpiella.dev/avoiding-code-repetition-with-property-wrappers)
 - [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern)
 - [How I use Github Actions to update my Github profile](https://polpiella.dev/updating-your-profile-readme-with-github-actions)
-- [Testing dates consistently](https://polpiella.dev/testing-dates-consistently)
 
 ### A bit about my tech stack 🧑‍💻
 
