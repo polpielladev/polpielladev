@@ -1,14 +1,9 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/pol-piella/pol-piella/files/7574441/author_profile.1.pdf" />
-   <h3 align="center">Hi, I'm Pol! 👋</h3>
-</p>
-
-<p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
+![github-banner](https://user-images.githubusercontent.com/24246926/132853586-aa11a8b2-9388-4f47-87d9-583db35f0ca7.png)
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
-- [Custom key decoding strategies in Swift](https://polpiella.dev/polpiella.dev/custom-key-decoding-strategies-in-swift/)
-- [Using Property Wrappers to avoid code repetition](https://polpiella.dev/polpiella.dev/avoiding-code-repetition-with-property-wrappers/)
-- [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/polpiella.dev/hide-implementation-details-using-the-adapter-pattern/)
+- [Custom key decoding strategies in Swift](https://polpiella.dev/custom-key-decoding-strategies-in-swift/)
+- [Using Property Wrappers to avoid code repetition](https://polpiella.dev/avoiding-code-repetition-with-property-wrappers/)
+- [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern/)
 
 ### A bit about my tech stack 🧑‍💻
 
