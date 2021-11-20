@@ -13,8 +13,8 @@ jobs:
     - uses: actions/checkout@v2
     - run: cd Readme && swift run Readme $(pwd)/../templates/README.md.tpl $(pwd)/../README.md 
     - run: |
-        git config user.name pol-piella
-        git config user.email info@polpiellamusic.com
+        git config user.name Pol Piella
+        git config user.email hi@polpiella.dev
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "[generated]: Update latest blog posts in `README.md` file"
         git push origin main
