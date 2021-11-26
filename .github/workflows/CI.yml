@@ -4,11 +4,11 @@ on:
   push:
   schedule:
     - cron: "0 0 * * *"
+
+jobs:
   concurrency: 
     group: ${{ github.head_ref }}
     cancel-in-progress: true
-
-jobs:
   build:
     runs-on: macos-latest
 
