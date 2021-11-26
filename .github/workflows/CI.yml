@@ -2,7 +2,12 @@ name: Fetch latest blog posts and update README.md
 concurrency: 
   group: ${{ github.head_ref }}
   cancel-in-progress: true
-on: pull_request
+
+on:
+  pull_request:
+    branches: [ main, kids-main ]
+  push:
+    branches: [ main ]
   schedule:
     - cron: "0 0 * * *"
 
