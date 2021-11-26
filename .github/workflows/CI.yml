@@ -1,14 +1,13 @@
 name: Fetch latest blog posts and update README.md
-
+concurrency: 
+  group: ${{ github.head_ref }}
+  cancel-in-progress: true
 on:
   push:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
-  concurrency: 
-    group: ${{ github.head_ref }}
-    cancel-in-progress: true
   build:
     runs-on: macos-latest
 
