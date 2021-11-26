@@ -1,9 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Pol Piella Abadia on 23/07/2021.
-//
 
 import FeedKit
 import Foundation
