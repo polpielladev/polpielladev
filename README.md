@@ -6,9 +6,9 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Cancelling unnecessary Github actions automatically](https://polpiella.dev/cancelling-unnecessary-github-actions-automatically/)
 - [Custom key decoding strategies in Swift](https://polpiella.dev/custom-key-decoding-strategies-in-swift/)
 - [Using Property Wrappers to avoid code repetition](https://polpiella.dev/avoiding-code-repetition-with-property-wrappers/)
-- [Hiding implementation details using the adapter pattern in Swift](https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern/)
 
 ### A bit about my tech stack 🧑‍💻
 
