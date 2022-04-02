@@ -6,9 +6,9 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
-- [Building layouts with accessibility in mind - Part 1](https://polpiella.dev/building-layouts-with-accessibility-in-mind-part-1/)
-- [Embedding a dylib in a Swift Package](https://polpiella.dev/embedding-a-dylib-in-a-swift-package/)
-- [An early look at Swift extensible build tools](https://polpiella.dev/an-early-look-at-swift-extensible-build-tools/)
+- [Building layouts with accessibility in mind - Part 2](https://www.polpiella.dev/building-layouts-with-accessibility-in-mind-part-2)
+- [Building layouts with accessibility in mind - Part 1](https://www.polpiella.dev/building-layouts-with-accessibility-in-mind-part-1)
+- [Embedding a dylib in a Swift Package](https://www.polpiella.dev/embedding-a-dylib-in-a-swift-package)
 
 ### A bit about my tech stack 🧑‍💻
 
