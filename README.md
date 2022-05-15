@@ -6,9 +6,9 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Scripting in Swift: Git Hooks](https://www.polpiella.dev/scripting-in-swift-git-hooks)
 - [Binary targets in modern Swift packages](https://www.polpiella.dev/binary-targets-in-modern-swift-packages)
 - [Building layouts with accessibility in mind - Part 2](https://www.polpiella.dev/building-layouts-with-accessibility-in-mind-part-2)
-- [Building layouts with accessibility in mind - Part 1](https://www.polpiella.dev/building-layouts-with-accessibility-in-mind-part-1)
 
 ### A bit about my tech stack 🧑‍💻
 
