@@ -6,9 +6,9 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
-- [Scripting in Swift: Git Hooks](https://www.polpiella.dev/scripting-in-swift-git-hooks)
-- [Binary targets in modern Swift packages](https://www.polpiella.dev/binary-targets-in-modern-swift-packages)
-- [Building layouts with accessibility in mind - Part 2](https://www.polpiella.dev/building-layouts-with-accessibility-in-mind-part-2)
+- [An early look at Swift extensible build tools](https://polpiella.dev/an-early-look-at-swift-extensible-build-tools/)
+- [Asserting errors from throwing functions](https://polpiella.dev/asserting-errors-from-throwing-functions/)
+- [Using Property Wrappers to avoid code repetition](https://polpiella.dev/avoiding-code-repetition-with-property-wrappers/)
 
 ### A bit about my tech stack 🧑‍💻
 
