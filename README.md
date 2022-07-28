@@ -6,9 +6,9 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Localising a modularised application](https://polpiella.dev/modularised-app-localisation/)
 - [Code generation using Swift Package Plugins](https://polpiella.dev/code-generation-using-swift-package-plugins/)
 - [My first contribution to Fastlane](https://polpiella.dev/my-first-contribution-to-fastlane/)
-- [Scripting in Swift: Git Hooks](https://polpiella.dev/scripting-in-swift-git-hooks/)
 
 ### A bit about my tech stack 🧑‍💻
 
