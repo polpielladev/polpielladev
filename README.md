@@ -4,6 +4,6 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Configuring UI tests with launch arguments](https://polpiella.dev/configuring-ui-tests-with-launch-arguments/)
 - [Swift async/await in AWS lambdas](https://polpiella.dev/swift-async-await-in-aws-lambdas/)
 - [Collecting Github Action workflow metrics using Swift](https://polpiella.dev/collecting-gihub-actions-workflow-metrics-with-swift/)
-- [Testing your release pipeline using Fastlane](https://polpiella.dev/testing-your-release-pipeline-using-fastlane/)
