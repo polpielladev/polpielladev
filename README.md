@@ -4,6 +4,6 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I occasionally write blogs on app development, you can check them out below if you're interested 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Looking back at my 2022](https://polpiella.dev/looking-back-at-my-2022/)
 - [Managing multiple versions of Swift locally](https://polpiella.dev/managing-multiple-swift-versions-locally/)
 - [Configuring UI tests with launch arguments](https://polpiella.dev/configuring-ui-tests-with-launch-arguments/)
-- [Swift async/await in AWS lambdas](https://polpiella.dev/swift-async-await-in-aws-lambdas/)
