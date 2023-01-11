@@ -24,7 +24,7 @@ extension RSSFeedLoader: PostFeedLoader {
             .rssFeed?
             .items?
             .compactMap { $0 }
-            .prefix(3)
+            .prefix(10)
             .map { Post(title: $0.title ?? "", link: $0.link ?? "") } ?? []
     }
 }
