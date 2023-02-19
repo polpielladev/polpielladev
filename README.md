@@ -12,7 +12,7 @@
 - [Safely pinning SPM dependencies to exact versions](https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/)
 - [Using App Store Connect API to trigger Xcode Cloud workflows](https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/)
 - [Changing orientation for a single screen in SwiftUI](https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/)
-- [Scheduling tweets with Github Actions and Swift](https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/)
+- [Scheduling tweets with GitHub Actions and Swift](https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/)
 - [Making a serverless Swift function with Fastly and Upstash](https://polpiella.dev/making-a-serverless-swift-function-with-fastly-and-upstash/)
 - [Fastlane and App Store Connect API keys](https://polpiella.dev/fastlane-appstore-connect-api-and-github-actions/)
 - [Xcode Cloud scripts: Fastlane and Cocoapods](https://polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/)
