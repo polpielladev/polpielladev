@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Coming in Swift 5.9: Network requests in Swift package plugins](https://polpiella.dev/network-requests-in-swift-package-plugins/)
 - [Safely pinning SPM dependencies to exact versions](https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/)
 - [Using App Store Connect API to trigger Xcode Cloud workflows](https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/)
 - [Changing orientation for a single screen in SwiftUI](https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/)
@@ -18,4 +19,3 @@
 - [Xcode Cloud scripts: Fastlane and Cocoapods](https://polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/)
 - [Looking back at my 2022](https://polpiella.dev/looking-back-at-my-2022/)
 - [Managing multiple versions of Swift locally](https://polpiella.dev/managing-multiple-swift-versions-locally/)
-- [Configuring UI tests with launch arguments](https://polpiella.dev/configuring-ui-tests-with-launch-arguments/)
