@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [GitHub webhooks 🤝 Xcode Cloud](https://polpiella.dev/github-webhooks-and-xcode-cloud/)
 - [How to make an interactive picker for a Swift command-line tool](https://polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/)
 - [Managing multiple Xcode versions on CI using Fastlane](https://polpiella.dev/managing-xcode-installs-using-fastlane/)
 - [Coming in Swift 5.9: Network requests in Swift package plugins](https://polpiella.dev/network-requests-in-swift-package-plugins/)
@@ -18,4 +19,3 @@
 - [Scheduling tweets with GitHub Actions and Swift](https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/)
 - [Making a serverless Swift function with Fastly and Upstash](https://polpiella.dev/making-a-serverless-swift-function-with-fastly-and-upstash/)
 - [Fastlane and App Store Connect API keys](https://polpiella.dev/fastlane-appstore-connect-api-and-github-actions/)
-- [Xcode Cloud scripts: Fastlane and Cocoapods](https://polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/)
