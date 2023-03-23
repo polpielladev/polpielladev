@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Making macOS SwiftUI text views editable on click](https://polpiella.dev/swiftui-editable-list-text-items/)
 - [GitHub webhooks 🤝 Xcode Cloud](https://polpiella.dev/github-webhooks-and-xcode-cloud/)
 - [How to make an interactive picker for a Swift command-line tool](https://polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/)
 - [Managing multiple Xcode versions on CI using Fastlane](https://polpiella.dev/managing-xcode-installs-using-fastlane/)
@@ -18,4 +19,3 @@
 - [Changing orientation for a single screen in SwiftUI](https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/)
 - [Scheduling tweets with GitHub Actions and Swift](https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/)
 - [Making a serverless Swift function with Fastly and Upstash](https://polpiella.dev/making-a-serverless-swift-function-with-fastly-and-upstash/)
-- [Fastlane and App Store Connect API keys](https://polpiella.dev/fastlane-appstore-connect-api-and-github-actions/)
