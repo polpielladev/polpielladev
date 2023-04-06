@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Automating Swift command line tool releases with GitHub Actions](https://polpiella.dev/automating-swift-package-releases-with-github-actions/)
 - [Collecting Xcode Cloud metrics using webhooks](https://polpiella.dev/xcode-cloud-webhooks/)
 - [Making macOS SwiftUI text views editable on click](https://polpiella.dev/swiftui-editable-list-text-items/)
 - [GitHub webhooks 🤝 Xcode Cloud](https://polpiella.dev/github-webhooks-and-xcode-cloud/)
@@ -18,4 +19,3 @@
 - [Safely pinning SPM dependencies to exact versions](https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/)
 - [Using App Store Connect API to trigger Xcode Cloud workflows](https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/)
 - [Changing orientation for a single screen in SwiftUI](https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/)
-- [Scheduling tweets with GitHub Actions and Swift](https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/)
