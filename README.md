@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Scheduling app releases with Xcode Cloud](https://polpiella.dev/scheduling-app-releases-with-xcode-cloud/)
 - [Deploying beta versions of your app to TestFlight and AppCenter using Xcode Cloud](https://polpiella.dev/how-to-deploy-beta-versions-of-your-app-to-testflight-and-appcenter-with-xcode-cloud/)
 - [Automating Swift command line tool releases with GitHub Actions](https://polpiella.dev/automating-swift-package-releases-with-github-actions/)
 - [Collecting Xcode Cloud metrics using webhooks](https://polpiella.dev/xcode-cloud-webhooks/)
@@ -18,4 +19,3 @@
 - [Managing multiple Xcode versions on CI using Fastlane](https://polpiella.dev/managing-xcode-installs-using-fastlane/)
 - [Coming in Swift 5.9: Network requests in Swift package plugins](https://polpiella.dev/network-requests-in-swift-package-plugins/)
 - [Safely pinning SPM dependencies to exact versions](https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/)
-- [Using App Store Connect API to trigger Xcode Cloud workflows](https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/)
