@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to avoid a big refactor with the @_exported attribute](https://polpiella.dev/how-we-avoided-a-big-refactor-with-the-exported-attribute/)
 - [How to launch a macOS SwiftUI app from a Safari extension](https://polpiella.dev/how-to-launch-an-app-from-a-safari-extension/)
 - [Export SwiftUI views as images in macOS](https://polpiella.dev/how-to-save-swiftui-views-as-images-in-macos/)
 - [GitHub Actions workflows side effects](https://polpiella.dev/github-action-workflows-side-effects/)
@@ -18,4 +19,3 @@
 - [Collecting Xcode Cloud metrics using webhooks](https://polpiella.dev/xcode-cloud-webhooks/)
 - [Making macOS SwiftUI text views editable on click](https://polpiella.dev/swiftui-editable-list-text-items/)
 - [GitHub webhooks 🤝 Xcode Cloud](https://polpiella.dev/github-webhooks-and-xcode-cloud/)
-- [How to make an interactive picker for a Swift command-line tool](https://polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/)
