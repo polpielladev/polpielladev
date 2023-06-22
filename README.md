@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Understanding mergeable libraries](https://polpiella.dev/understanding-mergeable-libraries/)
 - [Version-specific Package.swift files](https://polpiella.dev/version-specific-package-manifests/)
 - [Xcode Cloud: Generating and translating TestFlight test notes automatically](https://polpiella.dev/setting-testflight-test-notes-for-xcode-cloud-builds/)
 - [Automatic deployment of Swift AWS lambdas on CI/CD](https://polpiella.dev/automatic-deployment-of-swift-aws-lambdas-on-ci-cd/)
@@ -18,4 +19,3 @@
 - [Export SwiftUI views as images in macOS](https://polpiella.dev/how-to-save-swiftui-views-as-images-in-macos/)
 - [GitHub Actions workflows side effects](https://polpiella.dev/github-action-workflows-side-effects/)
 - [Scheduling app releases with Xcode Cloud](https://polpiella.dev/scheduling-app-releases-with-xcode-cloud/)
-- [Deploying beta versions of your app to TestFlight and AppCenter using Xcode Cloud](https://polpiella.dev/how-to-deploy-beta-versions-of-your-app-to-testflight-and-appcenter-with-xcode-cloud/)
