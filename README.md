@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Load custom fonts into your app using Swift Package Plugins](https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/)
 - [Configuring SwiftData in a SwiftUI app](https://polpiella.dev/configuring-swiftdata-in-a-swiftui-app/)
 - [Understanding mergeable libraries](https://polpiella.dev/understanding-mergeable-libraries/)
 - [Version-specific Package.swift files](https://polpiella.dev/version-specific-package-manifests/)
@@ -18,4 +19,3 @@
 - [How to avoid a big refactor with the @_exported attribute](https://polpiella.dev/how-we-avoided-a-big-refactor-with-the-exported-attribute/)
 - [How to launch a macOS SwiftUI app from a Safari extension](https://polpiella.dev/how-to-launch-an-app-from-a-safari-extension/)
 - [Export SwiftUI views as images in macOS](https://polpiella.dev/how-to-save-swiftui-views-as-images-in-macos/)
-- [GitHub Actions workflows side effects](https://polpiella.dev/github-action-workflows-side-effects/)
