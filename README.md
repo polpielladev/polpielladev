@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Delightful SwiftUI image drag & drop for a macOS app](https://polpiella.dev/qreate-drag-and-drop/)
 - [Scheduled Swift AWS lambdas](https://polpiella.dev/scheduled-swift-aws-lambdas/)
 - [How to show the app icon and version in a SwiftUI view](https://polpiella.dev/show-app-icon-and-version-in-a-swiftui-view/)
 - [Load custom fonts into your app using Swift Package Plugins](https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/)
@@ -18,4 +19,3 @@
 - [Xcode Cloud: Generating and translating TestFlight test notes automatically](https://polpiella.dev/setting-testflight-test-notes-for-xcode-cloud-builds/)
 - [Automatic deployment of Swift AWS lambdas on CI/CD](https://polpiella.dev/automatic-deployment-of-swift-aws-lambdas-on-ci-cd/)
 - [Private Swift packages on CI/CD](https://polpiella.dev/private-swift-packages-on-ci-cd/)
-- [How to avoid a big refactor with the @_exported attribute](https://polpiella.dev/how-we-avoided-a-big-refactor-with-the-exported-attribute/)
