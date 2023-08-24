@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Named capture groups in Swift regular expressions](https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/)
 - [Building a searchable map with SwiftUI and MapKit](https://polpiella.dev/mapkit-and-swiftui-searchable-map/)
 - [Delightful SwiftUI image drag & drop for a macOS app](https://polpiella.dev/qreate-drag-and-drop/)
 - [Scheduled Swift AWS lambdas](https://polpiella.dev/scheduled-swift-aws-lambdas/)
@@ -18,4 +19,3 @@
 - [Understanding mergeable libraries](https://polpiella.dev/understanding-mergeable-libraries/)
 - [Version-specific Package.swift files](https://polpiella.dev/version-specific-package-manifests/)
 - [Xcode Cloud: Generating and translating TestFlight test notes automatically](https://polpiella.dev/setting-testflight-test-notes-for-xcode-cloud-builds/)
-- [Automatic deployment of Swift AWS lambdas on CI/CD](https://polpiella.dev/automatic-deployment-of-swift-aws-lambdas-on-ci-cd/)
