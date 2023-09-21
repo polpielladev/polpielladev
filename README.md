@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to create an App Clip for your app](https://polpiella.dev/create-app-clips/)
 - [Swift on Linux CI/CD using swiftly](https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/)
 - [Xcode 15: Automated accessibility audits](https://polpiella.dev/xcode-15-automated-accessibility-audits/)
 - [Named capture groups in Swift regular expressions](https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/)
@@ -18,4 +19,3 @@
 - [How to show the app icon and version in a SwiftUI view](https://polpiella.dev/show-app-icon-and-version-in-a-swiftui-view/)
 - [Load custom fonts into your app using Swift Package Plugins](https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/)
 - [Configuring SwiftData in a SwiftUI app](https://polpiella.dev/configuring-swiftdata-in-a-swiftui-app/)
-- [Understanding mergeable libraries](https://polpiella.dev/understanding-mergeable-libraries/)
