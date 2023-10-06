@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Using Core Data and Swift Data side by side](https://polpiella.dev/core-data-and-swift-data/)
 - [MusicKit and App Clips](https://polpiella.dev/musickit-and-app-clips/)
 - [How to create an App Clip for your app](https://polpiella.dev/create-app-clips/)
 - [Swift on Linux CI/CD using swiftly](https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/)
@@ -18,4 +19,3 @@
 - [Delightful SwiftUI image drag & drop for a macOS app](https://polpiella.dev/qreate-drag-and-drop/)
 - [Scheduled Swift AWS lambdas](https://polpiella.dev/scheduled-swift-aws-lambdas/)
 - [How to show the app icon and version in a SwiftUI view](https://polpiella.dev/show-app-icon-and-version-in-a-swiftui-view/)
-- [Load custom fonts into your app using Swift Package Plugins](https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/)
