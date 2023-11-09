@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [An early look at the future of testing with swift-testing](https://polpiella.dev/swift-testing/)
 - [Building and testing Swift packages on Windows using GitHub Actions](https://polpiella.dev/running-swift-on-widnows-with-gha/)
 - [Launching a SwiftUI view from the terminal](https://polpiella.dev/launching-a-swiftui-view-from-the-terminal/)
 - [Adding an Info.plist file to a Swift executable](https://polpiella.dev/info-plist-swift-cli/)
@@ -18,4 +19,3 @@
 - [Swift on Linux CI/CD using swiftly](https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/)
 - [Xcode 15: Automated accessibility audits](https://polpiella.dev/xcode-15-automated-accessibility-audits/)
 - [Named capture groups in Swift regular expressions](https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/)
-- [Building a searchable map with SwiftUI and MapKit](https://polpiella.dev/mapkit-and-swiftui-searchable-map/)
