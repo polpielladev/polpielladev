@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Migrating a Core Data store to an App Group shared container](https://polpiella.dev/core-data-migration-app-group/)
 - [An early look at the future of testing with swift-testing](https://polpiella.dev/swift-testing/)
 - [Building and testing Swift packages on Windows using GitHub Actions](https://polpiella.dev/running-swift-on-widnows-with-gha/)
 - [Launching a SwiftUI view from the terminal](https://polpiella.dev/launching-a-swiftui-view-from-the-terminal/)
@@ -18,4 +19,3 @@
 - [How to create an App Clip for your app](https://polpiella.dev/create-app-clips/)
 - [Swift on Linux CI/CD using swiftly](https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/)
 - [Xcode 15: Automated accessibility audits](https://polpiella.dev/xcode-15-automated-accessibility-audits/)
-- [Named capture groups in Swift regular expressions](https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/)
