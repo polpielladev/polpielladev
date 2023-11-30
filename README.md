@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to import Swift macros without using Swift Package Manager](https://polpiella.dev/binary-swift-macros/)
 - [Using Swift SDKs to cross-compile Swift packages to Linux](https://polpiella.dev/swift-sdks/)
 - [Migrating a Core Data store to an App Group shared container](https://polpiella.dev/core-data-migration-app-group/)
 - [An early look at the future of testing with swift-testing](https://polpiella.dev/swift-testing/)
@@ -18,4 +19,3 @@
 - [Using Core Data and Swift Data side by side](https://polpiella.dev/core-data-and-swift-data/)
 - [MusicKit and App Clips](https://polpiella.dev/musickit-and-app-clips/)
 - [How to create an App Clip for your app](https://polpiella.dev/create-app-clips/)
-- [Swift on Linux CI/CD using swiftly](https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/)
