@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to get the most played Apple Music songs and albums using Swift](https://polpiella.dev/most-played-apple-music/)
 - [Enable upcoming Swift features in SPM](https://polpiella.dev/enable-upcoming-swift-features-in-spm/)
 - [Distributing a Swift Macro using CocoaPods](https://polpiella.dev/cocoapods-swift-macros/)
 - [How to import Swift macros without using Swift Package Manager](https://polpiella.dev/binary-swift-macros/)
@@ -18,4 +19,3 @@
 - [Building and testing Swift packages on Windows using GitHub Actions](https://polpiella.dev/running-swift-on-widnows-with-gha/)
 - [Launching a SwiftUI view from the terminal](https://polpiella.dev/launching-a-swiftui-view-from-the-terminal/)
 - [Adding an Info.plist file to a Swift executable](https://polpiella.dev/info-plist-swift-cli/)
-- [Using Core Data and Swift Data side by side](https://polpiella.dev/core-data-and-swift-data/)
