@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Image to image local Stable Diffusion pipelines with ControlNet in Swift](https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/)
 - [How I stay up to date as a software developer](https://polpiella.dev/stay-up-to-date-as-a-software-developer/)
 - [How to use Stable Diffusion models in a Swift app](https://polpiella.dev/stable-diffusion-swift-apps/)
 - [Looking back at my 2023](https://polpiella.dev/looking-back-at-my-2023/)
@@ -18,4 +19,3 @@
 - [How to import Swift macros without using Swift Package Manager](https://polpiella.dev/binary-swift-macros/)
 - [Using Swift SDKs to cross-compile Swift packages to Linux](https://polpiella.dev/swift-sdks/)
 - [Migrating a Core Data store to an App Group shared container](https://polpiella.dev/core-data-migration-app-group/)
-- [An early look at the future of testing with swift-testing](https://polpiella.dev/swift-testing/)
