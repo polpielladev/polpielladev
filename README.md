@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Automating app releases for multiple platforms with Xcode Cloud](https://polpiella.dev/cross-platform-app-releases-with-xcode-cloud/)
 - [Setting up SharePlay on an iOS app](https://polpiella.dev/setting-up-shareplay-on-an-ios-app-from-scratch/)
 - [Generating beautiful open-graph images dynamically](https://polpiella.dev/generating-beautiful-open-graph-images-dynamically/)
 - [Image to image local Stable Diffusion pipelines with ControlNet in Swift](https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/)
@@ -18,4 +19,3 @@
 - [How to get the most played Apple Music songs and albums using Swift](https://polpiella.dev/most-played-apple-music/)
 - [Enable upcoming Swift features in SPM](https://polpiella.dev/enable-upcoming-swift-features-in-spm/)
 - [Distributing a Swift Macro using CocoaPods](https://polpiella.dev/cocoapods-swift-macros/)
-- [How to import Swift macros without using Swift Package Manager](https://polpiella.dev/binary-swift-macros/)
