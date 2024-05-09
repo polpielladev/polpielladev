@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to profile your app's performance and Main Thread usage with Instruments and os_signposts](https://polpiella.dev/time-profiler-instruments/)
 - [Safely unwrap optional values in SwiftUI bindings](https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/)
 - [Creating an App Store Connect-like picker for macOS with SwiftUI](https://polpiella.dev/app-store-connect-like-picker-with-swiftui/)
 - [Swift 6: Access level on import statements](https://polpiella.dev/swift-6-import-access-level/)
@@ -18,4 +19,3 @@
 - [Generate and read analytics reports from the App Store Connect API](https://polpiella.dev/analytics-reports-api-app-store-connect/)
 - [Core Data staged migrations](https://polpiella.dev/staged-migrations/)
 - [How to generate Swift interfaces from Pkl configuration files using SPM plugins](https://polpiella.dev/how-to-generate-swift-interfaces-from-pkl-files-with-spm-plugins/)
-- [Validate your XCTest utilities and extensions with unit tests](https://polpiella.dev/validate-your-xctest-utilities-with-unit-tests/)
