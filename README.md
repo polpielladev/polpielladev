@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Removing components from a Date in Swift](https://polpiella.dev/removing-information-from-a-date-in-swift/)
 - [How to build segmented circular progress views in SwiftUI with Swift Charts](https://polpiella.dev/swiftui-charts-progress-views/)
 - [Building a Swift package using the Swift 6 language mode](https://polpiella.dev/swift-6-language-mode/)
 - [How to profile your app's performance and Main Thread usage with Instruments and os_signposts](https://polpiella.dev/time-profiler-instruments/)
@@ -18,4 +19,3 @@
 - [Use Swift to recursively search for content in a directory's files with Glob patterns and Regular Expressions](https://polpiella.dev/recursive-search-glob-and-regex/)
 - [Master the reduce operator in Swift and make your code more performant](https://polpiella.dev/mastering-the-reduce-operator-in-swift/)
 - [Multi-platform Swift Package releases with GitHub Actions](https://polpiella.dev/multi-platform-swift-package-releases-with-github-actions/)
-- [Generate and read analytics reports from the App Store Connect API](https://polpiella.dev/analytics-reports-api-app-store-connect/)
