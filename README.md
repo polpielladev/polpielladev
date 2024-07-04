@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Show and hide SwiftUI inspectors with an identifiable item](https://polpiella.dev/swiftui-inspector-modifier/)
 - [Free, on-device translations with the Swift Translation API](https://polpiella.dev/swift-translation-api/)
 - [Getting started with Swift Testing](https://polpiella.dev/swift-testing/)
 - [How to create a SwiftUI floating window in macOS 15](https://polpiella.dev/creating-a-floating-window-using-swiftui-in-macos-15/)
@@ -18,4 +19,3 @@
 - [How to profile your app's performance and Main Thread usage with Instruments and os_signposts](https://polpiella.dev/time-profiler-instruments/)
 - [Safely unwrap optional values in SwiftUI bindings](https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/)
 - [Creating an App Store Connect-like picker for macOS with SwiftUI](https://polpiella.dev/app-store-connect-like-picker-with-swiftui/)
-- [Swift 6: Access level on import statements](https://polpiella.dev/swift-6-import-access-level/)
