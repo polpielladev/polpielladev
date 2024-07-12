@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Check if your app has a newer version on the App Store using Swift](https://polpiella.dev/newer-version-lookup/)
 - [Show and hide SwiftUI inspectors with an identifiable item](https://polpiella.dev/swiftui-inspector-modifier/)
 - [Free, on-device translations with the Swift Translation API](https://polpiella.dev/swift-translation-api/)
 - [Getting started with Swift Testing](https://polpiella.dev/swift-testing/)
@@ -18,4 +19,3 @@
 - [Building a Swift package using the Swift 6 language mode](https://polpiella.dev/swift-6-language-mode/)
 - [How to profile your app's performance and Main Thread usage with Instruments and os_signposts](https://polpiella.dev/time-profiler-instruments/)
 - [Safely unwrap optional values in SwiftUI bindings](https://polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/)
-- [Creating an App Store Connect-like picker for macOS with SwiftUI](https://polpiella.dev/app-store-connect-like-picker-with-swiftui/)
