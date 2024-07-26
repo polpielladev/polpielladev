@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to get the checksum of a file in Swift](https://polpiella.dev/get-checksum/)
 - [How to use recursive functions in Swift](https://polpiella.dev/how-to-use-recursive-functions-in-swift/)
 - [Check if your app has a newer version on the App Store using Swift](https://polpiella.dev/newer-version-lookup/)
 - [Show and hide SwiftUI inspectors with an identifiable item](https://polpiella.dev/swiftui-inspector-modifier/)
@@ -18,4 +19,3 @@
 - [Removing components from a Date in Swift](https://polpiella.dev/removing-information-from-a-date-in-swift/)
 - [How to build segmented circular progress views in SwiftUI with Swift Charts](https://polpiella.dev/swiftui-charts-progress-views/)
 - [Building a Swift package using the Swift 6 language mode](https://polpiella.dev/swift-6-language-mode/)
-- [How to profile your app's performance and Main Thread usage with Instruments and os_signposts](https://polpiella.dev/time-profiler-instruments/)
