@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to automatically detect memory leaks on CI/CD using UI tests](https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
 - [How to programmatically parse the contents of an XCResult bundle](https://polpiella.dev/parse-contents-of-xcresult-files/)
 - [How to get the checksum of a file in Swift](https://polpiella.dev/get-checksum/)
 - [How to use recursive functions in Swift](https://polpiella.dev/how-to-use-recursive-functions-in-swift/)
@@ -18,4 +19,3 @@
 - [Getting started with Swift Testing](https://polpiella.dev/swift-testing/)
 - [How to create a SwiftUI floating window in macOS 15](https://polpiella.dev/creating-a-floating-window-using-swiftui-in-macos-15/)
 - [Removing components from a Date in Swift](https://polpiella.dev/removing-information-from-a-date-in-swift/)
-- [How to build segmented circular progress views in SwiftUI with Swift Charts](https://polpiella.dev/swiftui-charts-progress-views/)
