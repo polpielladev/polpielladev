@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to make ZStack content fully scrollable in a SwiftUI ScrollView](https://polpiella.dev/scrollable-zstack/)
 - [How to use EditorConfig files in Xcode](https://polpiella.dev/xcode-editor-config/)
 - [Developer guide to Swift AWS Lambdas](https://polpiella.dev/developer-guide-to-swift-aws-lambdas/)
 - [How to automatically detect memory leaks on CI/CD using UI tests](https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
@@ -18,4 +19,3 @@
 - [Check if your app has a newer version on the App Store using Swift](https://polpiella.dev/newer-version-lookup/)
 - [Show and hide SwiftUI inspectors with an identifiable item](https://polpiella.dev/swiftui-inspector-modifier/)
 - [Free, on-device translations with the Swift Translation API](https://polpiella.dev/swift-translation-api/)
-- [Getting started with Swift Testing](https://polpiella.dev/swift-testing/)
