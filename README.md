@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to build a Safari extension with SwiftUI](https://polpiella.dev/safari-extensions-swiftui/)
 - [How to pass Bindings to views in SwiftUI's NavigationDestination modifier](https://polpiella.dev/binding-navigation/)
 - [How to make ZStack content fully scrollable in a SwiftUI ScrollView](https://polpiella.dev/scrollable-zstack/)
 - [How to use EditorConfig files in Xcode](https://polpiella.dev/xcode-editor-config/)
@@ -18,4 +19,3 @@
 - [How to get the checksum of a file in Swift](https://polpiella.dev/get-checksum/)
 - [How to use recursive functions in Swift](https://polpiella.dev/how-to-use-recursive-functions-in-swift/)
 - [Check if your app has a newer version on the App Store using Swift](https://polpiella.dev/newer-version-lookup/)
-- [Show and hide SwiftUI inspectors with an identifiable item](https://polpiella.dev/swiftui-inspector-modifier/)
