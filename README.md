@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to install the same version of Ruby and Fastlane locally and on CI/CD](https://polpiella.dev/install-ruby-and-gems-on-ci-cd/)
 - [How to listen for property changes in an @Observable class using AsyncStreams](https://polpiella.dev/observable-property-changes/)
 - [How to run Swift Data and Core Data operations in the background and share models across concurrency contexts](https://polpiella.dev/core-data-swift-data-concurrency/)
 - [How to build a Safari extension with SwiftUI](https://polpiella.dev/safari-extensions-swiftui/)
@@ -18,4 +19,3 @@
 - [Developer guide to Swift AWS Lambdas](https://polpiella.dev/developer-guide-to-swift-aws-lambdas/)
 - [How to automatically detect memory leaks on CI/CD using UI tests](https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
 - [How to programmatically parse the contents of an XCResult bundle](https://polpiella.dev/parse-contents-of-xcresult-files/)
-- [How to get the checksum of a file in Swift](https://polpiella.dev/get-checksum/)
