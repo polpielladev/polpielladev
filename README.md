@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to automatically update build and version numbers in your app using Fastlane](https://polpiella.dev/bump-numbers-ci-cd/)
 - [How to expedite an app review on the App Store](https://polpiella.dev/expedited-app-reviews/)
 - [How to install the same version of Ruby and Fastlane locally and on CI/CD](https://polpiella.dev/install-ruby-and-gems-on-ci-cd/)
 - [How to listen for property changes in an @Observable class using AsyncStreams](https://polpiella.dev/observable-property-changes/)
@@ -18,4 +19,3 @@
 - [How to make ZStack content fully scrollable in a SwiftUI ScrollView](https://polpiella.dev/scrollable-zstack/)
 - [How to use EditorConfig files in Xcode](https://polpiella.dev/xcode-editor-config/)
 - [Developer guide to Swift AWS Lambdas](https://polpiella.dev/developer-guide-to-swift-aws-lambdas/)
-- [How to automatically detect memory leaks on CI/CD using UI tests](https://polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
