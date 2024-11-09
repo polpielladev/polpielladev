@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [Automate Apple app code signing using fastlane match](https://polpiella.dev/automate-code-signing-with-fastlane-match/)
 - [How to automatically update build and version numbers in your app using Fastlane](https://polpiella.dev/bump-numbers-ci-cd/)
 - [How to expedite an app review on the App Store](https://polpiella.dev/expedited-app-reviews/)
 - [How to install the same version of Ruby and Fastlane locally and on CI/CD](https://polpiella.dev/install-ruby-and-gems-on-ci-cd/)
@@ -18,4 +19,3 @@
 - [How to pass Bindings to views in SwiftUI's NavigationDestination modifier](https://polpiella.dev/binding-navigation/)
 - [How to make ZStack content fully scrollable in a SwiftUI ScrollView](https://polpiella.dev/scrollable-zstack/)
 - [How to use EditorConfig files in Xcode](https://polpiella.dev/xcode-editor-config/)
-- [Developer guide to Swift AWS Lambdas](https://polpiella.dev/developer-guide-to-swift-aws-lambdas/)
