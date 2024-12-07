@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How to change your app's business model from paid to freemium using StoreKit](https://polpiella.dev/paid-app-to-freemium/)
 - [How to create and upload high-quality App Store assets with RocketSim and Helm](https://polpiella.dev/creating-and-uploading-app-store-assets/)
 - [Automate GitHub Tasks with GitHub CLI in Actions Workflows: A Step-by-Step Guide](https://polpiella.dev/how-to-use-the-github-cli-from-github-actions-workflows/)
 - [Automate Apple app code signing using fastlane match](https://polpiella.dev/automate-code-signing-with-fastlane-match/)
@@ -18,4 +19,3 @@
 - [How to listen for property changes in an @Observable class using AsyncStreams](https://polpiella.dev/observable-property-changes/)
 - [How to run Swift Data and Core Data operations in the background and share models across concurrency contexts](https://polpiella.dev/core-data-swift-data-concurrency/)
 - [How to build a Safari extension with SwiftUI](https://polpiella.dev/safari-extensions-swiftui/)
-- [How to pass Bindings to views in SwiftUI's NavigationDestination modifier](https://polpiella.dev/binding-navigation/)
