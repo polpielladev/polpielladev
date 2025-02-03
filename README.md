@@ -9,6 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
+- [How combine lists of Strings into natural and localized sentences in Swift](https://polpiella.dev/join-list-of-strings/)
 - [How to check if a modifier key is pressed when clicking on a menu bar item in macOS apps](https://polpiella.dev/menu-bar-modifier-key/)
 - [Using withObservationTracking to monitor changes in @Observable properties outside SwiftUI views](https://polpiella.dev/observable-outside-of-a-view/)
 - [How to keep your macOS app's menu bar item running after quitting the app](https://polpiella.dev/keep-menu-bar-running-after-quitting-app/)
@@ -18,4 +19,3 @@
 - [Automate Apple app code signing using fastlane match](https://polpiella.dev/automate-code-signing-with-fastlane-match/)
 - [How to automatically update build and version numbers in your app using Fastlane](https://polpiella.dev/bump-numbers-ci-cd/)
 - [How to expedite an app review on the App Store](https://polpiella.dev/expedited-app-reviews/)
-- [How to install the same version of Ruby and Fastlane locally and on CI/CD](https://polpiella.dev/install-ruby-and-gems-on-ci-cd/)
