@@ -9,7 +9,7 @@
 <p align="center">I'm an <strong>iOS developer</strong> based in the UK.<br />I write weekly blogs about mobile app development, you can check them out below 👇</p>
 
 ### Latest articles in my [blog](https://www.polpiella.dev)
-- [How combine lists of Strings into natural and localized sentences in Swift](https://polpiella.dev/join-list-of-strings/)
+- [How to combine lists of Strings into natural and localized sentences in Swift](https://polpiella.dev/join-list-of-strings/)
 - [How to check if a modifier key is pressed when clicking on a menu bar item in macOS apps](https://polpiella.dev/menu-bar-modifier-key/)
 - [Using withObservationTracking to monitor changes in @Observable properties outside SwiftUI views](https://polpiella.dev/observable-outside-of-a-view/)
 - [How to keep your macOS app's menu bar item running after quitting the app](https://polpiella.dev/keep-menu-bar-running-after-quitting-app/)
